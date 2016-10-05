@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
+<!--Original source: http://qdexapps.com/plot-tools/ -->
+
 <!--Modified by Howard Chiam on 2016-Oct-5th to make numbers and arrows retain size despite varying width/height of plot.-->
 
 <!--Features:
